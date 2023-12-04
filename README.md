@@ -8,7 +8,9 @@ The material contains:
 * Gamma and Extreme Value Distribution for precipitation data. The problem covers monthly and daily precipitation analysis over the US Midwest area. In this topic, there is also a calculation of Standardized Precip. Index (SPI), two extreme value distributions (GEV and Gen-Pareto), and their corresponding return period. 
 * Trend analysis using Mann-Kendal Trend test for land-use land-cover from NDVI data. 
 * Principal Component Analysis (PC/EOF) for temperature anomaly over South America.
-* Canonical Correlation Analysis (CCA) for soil moisture and precipitation over South America. 
+* Canonical Correlation Analysis (CCA) for soil moisture and precipitation over South America.
+* Linear regression with multiple variables.
+* Periodogram and FFT analysis on time series data. 
 
 This repo will be updated frequently [^1] as the problem comes up.
 
